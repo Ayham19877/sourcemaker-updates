@@ -1,1 +1,1 @@
-{"versionCode": 20261027, "versionName": "2.0", "apkUrl": "https://raw.githubusercontent.com/Ayham19877/sourcemaker-updates/main/SourceMaker.apk", "notes": "💡 تشخيص «محمي»: الفاحص صار يعرض سبب الحماية المحدد (Cloudflare / رفض الوصول / تسجيل دخول / تطبيق JavaScript) مع اقتراح عملي"}
+{"versionCode": 20261028, "versionName": "2.1", "apkUrl": "https://raw.githubusercontent.com/Ayham19877/sourcemaker-updates/main/SourceMaker.apk", "notes": "🔐 إصلاح الدخول: التطبيق صار يجرّب اسم المستخدم وكلمة المرور أثناء التحليل، وبيعرض زر «ابنِ على أي حال ⚠️» للمواقع المحمية بدل رفضها"}
